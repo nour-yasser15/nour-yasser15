@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @nour-yasser15
-- 👀 I’m interested in ...softwarer 
-- 🌱 I’m currently learning ...bis
+- 👀 I’m interested in ...software engineering 
+- 🌱 I’m currently learning ...business
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...nourazzam@gmail.com
+
 
 <!---
 nour-yasser15/nour-yasser15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
